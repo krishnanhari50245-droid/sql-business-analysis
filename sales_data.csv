@@ -1,0 +1,21 @@
+order_id,order_date,customer_name,country,product,category,quantity,unit_price,sales
+1001,2026-01-05,Anna Müller,Germany,Laptop,Electronics,1,899,899
+1002,2026-01-08,David Smith,UK,Wireless Mouse,Accessories,2,25,50
+1003,2026-01-12,Sophie Martin,France,Monitor,Electronics,2,220,440
+1004,2026-01-18,Lukas Weber,Germany,Keyboard,Accessories,3,45,135
+1005,2026-02-03,Emma Brown,UK,Laptop,Electronics,1,899,899
+1006,2026-02-10,Thomas Schmidt,Germany,Headphones,Accessories,2,75,150
+1007,2026-02-15,Marie Dubois,France,Monitor,Electronics,1,220,220
+1008,2026-02-22,Daniel Fischer,Germany,Wireless Mouse,Accessories,4,25,100
+1009,2026-03-02,Oliver Jones,UK,Keyboard,Accessories,2,45,90
+1010,2026-03-07,Laura Wagner,Germany,Laptop,Electronics,2,899,1798
+1011,2026-03-14,Lucas Bernard,France,Headphones,Accessories,3,75,225
+1012,2026-03-21,Hannah Becker,Germany,Monitor,Electronics,2,220,440
+1013,2026-04-04,James Wilson,UK,Laptop,Electronics,1,899,899
+1014,2026-04-09,Julia Hoffmann,Germany,Keyboard,Accessories,5,45,225
+1015,2026-04-17,Chloe Laurent,France,Wireless Mouse,Accessories,3,25,75
+1016,2026-04-25,Maximilian Koch,Germany,Headphones,Accessories,2,75,150
+1017,2026-05-03,Emily Taylor,UK,Monitor,Electronics,3,220,660
+1018,2026-05-11,Leon Schneider,Germany,Laptop,Electronics,1,899,899
+1019,2026-05-19,Arthur Moreau,France,Keyboard,Accessories,4,45,180
+1020,2026-05-27,Mia Richter,Germany,Wireless Mouse,Accessories,5,25,125
