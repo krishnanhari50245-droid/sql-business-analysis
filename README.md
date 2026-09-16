@@ -73,6 +73,56 @@ This analysis can be used to identify:
 - Monthly revenue trends
 - Opportunities for business growth
 
+- ## 📈 Key Analysis Results
+
+### Revenue Overview
+- **Total Revenue:** €8,659
+- **Average Order Value:** €432.95
+- **Total Orders:** 20
+
+### Product Performance
+
+| Product | Revenue | Units Sold |
+|---|---:|---:|
+| Laptop | €5,394 | 6 |
+| Monitor | €1,760 | 8 |
+| Keyboard | €630 | 14 |
+| Headphones | €525 | 7 |
+| Wireless Mouse | €350 | 14 |
+
+### Revenue by Country
+
+| Country | Revenue |
+|---|---:|
+| Germany | €4,921 |
+| UK | €2,598 |
+| France | €1,140 |
+
+### Revenue by Category
+
+| Category | Revenue |
+|---|---:|
+| Electronics | €7,154 |
+| Accessories | €1,505 |
+
+### Monthly Revenue Trend
+
+| Month | Revenue |
+|---|---:|
+| January 2026 | €1,524 |
+| February 2026 | €1,369 |
+| March 2026 | €2,553 |
+| April 2026 | €1,349 |
+| May 2026 | €1,864 |
+
+## 💡 Key Findings
+
+- Laptops generated the highest revenue at **€5,394**.
+- Germany was the strongest market with **€4,921** in revenue.
+- Electronics generated **€7,154**, significantly more than Accessories.
+- March was the strongest month with **€2,553** in revenue.
+- Keyboard and Wireless Mouse were the highest-volume products, with **14 units sold each**.
+
 ## 📁 Project Files
 
 - `sales_data.csv` — sample sales dataset
